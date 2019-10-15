@@ -1,0 +1,13 @@
+header{
+  font-weight: bold;
+  font-size: 21px;
+}
+a {
+  color:green;
+}
+p {
+  font-size:14px;
+}
+a:hover {
+  text-decoration:none;
+}
